@@ -1,4 +1,8 @@
 
 Hello this is 1st commit
 Hello this is 12t commit
+<<<<<<< HEAD
 Hello this is 13t commit
+=======
+
+>>>>>>> 6589c27c7b31c67b029d3060000812a8e800db8e
